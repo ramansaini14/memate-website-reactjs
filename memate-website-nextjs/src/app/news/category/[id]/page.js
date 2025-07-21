@@ -1,7 +1,7 @@
 'use client';
 
 import AppWrapper from '../../../../components/AppWrapper';
-import CategoryPage from '../../../../pages/category-page';
+import CategoryPage from '../../../../page-components/single-page/category-page';
 
 export default function BlogCategory({ params }) {
   return (

@@ -1,7 +1,7 @@
 'use client';
 
 import AppWrapper from '../components/AppWrapper';
-import LandingPage from '../pages/landing-page';
+import LandingPage from '../page-components/landing-page';
 
 export default function Home() {
   return (

@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../../components/AppWrapper';
-import AutomotivePage from '../../../pages/automotive';
+import AppWrapper from '../../../components/AppWrapper';
+import AutomotivePage from '../../../page-components/automotive';
 
 export default function Automotive() {
   return (

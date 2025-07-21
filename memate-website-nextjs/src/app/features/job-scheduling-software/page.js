@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../../components/AppWrapper';
-import SchedulingPage from '../../../pages/scheduling';
+import AppWrapper from '../../../components/AppWrapper';
+import SchedulingPage from '../../../page-components/scheduling';
 
 export default function Scheduling() {
   return (

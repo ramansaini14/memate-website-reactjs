@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../../components/AppWrapper';
-import TimeTrackerPage from '../../../pages/time-tracker';
+import AppWrapper from '../../../components/AppWrapper';
+import TimeTrackerPage from '../../../page-components/time-tracker';
 
 export default function TimeTracker() {
   return (

@@ -1,7 +1,7 @@
 'use client';
 
 import AppWrapper from '../../components/AppWrapper';
-import PricingPage from '../../pages/pricing';
+import PricingPage from '../../page-components/pricing';
 
 export default function Pricing() {
   return (

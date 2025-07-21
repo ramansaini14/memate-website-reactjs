@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../components/AppWrapper';
-import PrivacyPage from '../../pages/privacy';
+import AppWrapper from '../../components/AppWrapper';
+import PrivacyPage from '../../page-components/privacy';
 
 export default function Privacy() {
   return (

@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../components/AppWrapper';
-import MemateWikiPage from '../../pages/memate-wiki';
+import AppWrapper from '../../components/AppWrapper';
+import MemateWikiPage from '../../page-components/memate-wiki';
 
 export default function MemateWiki() {
   return (

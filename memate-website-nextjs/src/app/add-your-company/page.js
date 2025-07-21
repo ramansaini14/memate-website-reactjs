@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../components/AppWrapper';
-import AddYourCompanyPage from '../../pages/add-your-company';
+import AppWrapper from '../../components/AppWrapper';
+import AddYourCompanyPage from '../../page-components/add-your-company';
 
 export default function AddYourCompany() {
   return (

@@ -1,7 +1,7 @@
 'use client';
 
 import AppWrapper from '../../components/AppWrapper';
-import AboutMematePage from '../../pages/about-memate';
+import AboutMematePage from '../../page-components/about-memate';
 
 export default function About() {
   return (

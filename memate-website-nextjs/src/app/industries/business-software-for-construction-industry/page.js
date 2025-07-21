@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../../components/AppWrapper';
-import ConstructionPage from '../../../pages/construction';
+import AppWrapper from '../../../components/AppWrapper';
+import ConstructionPage from '../../../page-components/construction';
 
 export default function Construction() {
   return (

@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../../components/AppWrapper';
-import ScheduleJobsPage from '../../../pages/schedule-jobs';
+import AppWrapper from '../../../components/AppWrapper';
+import ScheduleJobsPage from '../../../page-components/schedule-jobs';
 
 export default function ScheduleJobs() {
   return (

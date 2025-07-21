@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../components/AppWrapper';
-import Services8Page from '../../pages/memate-vs-servicem8';
+import AppWrapper from '../../components/AppWrapper';
+import Services8Page from '../../page-components/memate-vs-servicem8';
 
 export default function Services8() {
   return (

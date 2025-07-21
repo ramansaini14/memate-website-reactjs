@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../components/AppWrapper';
-import LegalPage from '../../pages/legal';
+import AppWrapper from '../../components/AppWrapper';
+import LegalPage from '../../page-components/legal';
 
 export default function Legal() {
   return (

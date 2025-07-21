@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../../components/AppWrapper';
-import ContractorPage from '../../../pages/contractor';
+import AppWrapper from '../../../components/AppWrapper';
+import ContractorPage from '../../../page-components/contractor';
 
 export default function Contractor() {
   return (

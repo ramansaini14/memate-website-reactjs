@@ -1,7 +1,7 @@
 'use client';
 
 import AppWrapper from '../../../components/AppWrapper';
-import SinglePage from '../../../pages/single-page';
+import SinglePage from '../../../page-components/single-page';
 
 export default function BlogPost({ params }) {
   return (

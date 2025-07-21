@@ -1,7 +1,7 @@
 'use client';
 
 import AppWrapper from '../../components/AppWrapper';
-import BlogPage from '../../pages/blog-page';
+import BlogPage from '../../page-components/blog-page';
 
 export default function NewsPage() {
   return (

@@ -1,7 +1,7 @@
 'use client';
 
-import AppWrapper from '../../components/AppWrapper';
-import CalculatorsPage from '../../../pages/calculators';
+import AppWrapper from '../../../components/AppWrapper';
+import CalculatorsPage from '../../../page-components/calculators';
 
 export default function Calculators() {
   return (

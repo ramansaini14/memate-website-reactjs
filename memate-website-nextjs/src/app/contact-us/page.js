@@ -1,7 +1,7 @@
 'use client';
 
 import AppWrapper from '../../components/AppWrapper';
-import ContactUsPage from '../../pages/contact-us';
+import ContactUsPage from '../../page-components/contact-us';
 
 export default function ContactUs() {
   return (
